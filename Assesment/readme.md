@@ -24,14 +24,14 @@ The provided Figma file contains a 3-screen wireframe flow designed to solve Sar
 3. **Issue Detail & Context View:** A dedicated screen for a specific misconfiguration, providing full resource context (tags, region, owner) alongside actionable remediation playbooks and 1-click Jira ticket creation.
 
 
- ### Screen 1: Global Posture Overview
-![Dashboard]([cloudguard1.png](https://github.com/mukeshchaudhary14/cloud-posture-dashboard/blob/main/Assesment/wireframes/cloudguard1.png))
+### Screen 1: Global Posture Overview
+![Dashboard](wireframes/cloudguard1.png)
 
 ### Screen 2: Misconfiguration Explorer
-![Explorer]([cloudguard2.png](https://github.com/mukeshchaudhary14/cloud-posture-dashboard/blob/main/Assesment/wireframes/cloudguard2.png))
+![Explorer](wireframes/cloudguard2.png)
 
 ### Screen 3: Issue Detail & Context View
-![Details]([cloudguard3.png](https://github.com/mukeshchaudhary14/cloud-posture-dashboard/blob/main/Assesment/wireframes/cloudguard3.png?raw=true)) 
+![Details](wireframes/cloudguard3.png) 
 
 ---
 
